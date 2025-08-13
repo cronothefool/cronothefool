@@ -4,6 +4,6 @@
 
 # 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sh4dow-sk&theme=apprentice&hide_border=false&include_all_commits=true&count_private=false" height="190" style="margin-right:60px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh4dow-sk&theme=apprentice&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api?username=franzk4lt&theme=apprentice&hide_border=false&include_all_commits=true&count_private=false" height="190" style="margin-right:60px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franzk4lt&theme=apprentice&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="190" />
 </div>
